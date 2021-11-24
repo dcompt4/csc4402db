@@ -1,0 +1,501 @@
+sid,fname,lname,sex,year,GPA,club,role
+225000,Nicola,Acosta,F,2,3.32,FCA,member
+225001,Karen,Adams,F,1,2.78,Beta,member
+225002,David,Adkins,M,2,1.07,Debate,member
+225003,John,Aguilar,M,2,2.95,NULL,NULL
+225004,Paul,Alexander,M,2,1.16,Mu Alpha Theta,member
+225005,Fiona,Allen,F,1,2.82,National Honors Society,member
+225006,Susan,Alvarado,F,3,1.74,Newspaper,member
+225007,Mark,Alvarez,M,2,3.62,Beta,member
+225008,James,Anderson,M,3,3,Debate,member
+225009,Claire,Andrews,F,1,2.35,eSports,member
+225010,Andrew,Armstrong,M,3,2.24,Student Government,officer
+225011,Scott,Arnold,M,2,2.73,History,member
+225012,Sharon,Austin,F,1,2.32,Book,member
+225013,Steven,Avila,M,1,2.05,National Honors Society,member
+225014,Robert,Ayala,M,2,1.18,eSports,member
+225015,Stephen,Bailey,M,4,1.04,FCA,member
+225016,Angela,Baker,F,2,1.38,Music,member
+225017,Gillian,Baldwin,F,3,3.52,NULL,NULL
+225018,William,Ball,M,2,2.4,Sports Journalism,member
+225019,Julie,Banks,F,3,1.05,Photography,member
+225020,Craig,Barber,M,2,2.02,History,member
+225021,Michael,Barker,M,2,1.54,Photography,member
+225022,Michelle,Barnes,F,2,2.48,Robotics,member
+225023,Stuart,Barnett,M,3,2.22,Beta,president
+225024,Jacqueline,Barrett,F,4,3.84,NULL,NULL
+225025,Christopher,Barton,M,3,2.96,Music,member
+225026,Alan,Bates,M,4,3.35,Drama,member
+225027,Amanda,Bauer,F,4,2.52,4-H,member
+225028,Colin,Beck,M,3,3.77,NULL,NULL
+225029,Brian,Becker,M,4,1.31,Sports Journalism,member
+225030,Tracy,Bell,F,1,2.59,DECA,member
+225031,Louise,Bennett,F,1,1.25,Chess,member
+225032,Jennifer,Benson,F,4,3.97,Book,member
+225033,Alison,Berry,F,1,1.99,eSports,member
+225034,Kevin,Bishop,M,4,2.6,NULL,NULL
+225035,Gary,Black,M,3,3.87,FCA,member
+225036,Sarah,Blair,F,4,1.17,Music,member
+225037,Richard,Blake,M,4,3.03,Debate,member
+225038,Donna,Bowen,F,2,1.25,NULL,NULL
+225039,Derek,Bowers,M,1,1.85,Science,member
+225040,Caroline,Bowman,F,2,1.47,Photography,member
+225041,Martin,Boyd,M,1,2.09,Sports Journalism,member
+225042,Thomas,Bradley,M,3,3.11,Yearbook,member
+225043,Elaine,Brady,F,2,2.09,FCA,member
+225044,Neil,Brewer,M,4,2.47,Drama,member
+225045,Lynn,Brooks,F,1,1.74,Book,member
+225046,Barry,Brown,M,2,2.45,Band,member
+225047,Margaret,Bryant,F,3,1.48,FFA,member
+225048,Ian,Buchanan,M,1,3.76,Beta,officer
+225049,Elizabeth,Burgess,F,2,3.05,Science,member
+225050,Jason,Burke,M,4,2.94,Band,member
+225051,Iain,Burns,M,4,2.24,Mu Alpha Theta,member
+225052,Gordon,Burton,M,4,3.21,Robotics,member
+225053,Alexander,Bush,M,4,1.78,Yearbook,member
+225054,Lesley,Butler,F,3,2.51,History,member
+225055,Graeme,Byrd,M,2,1.48,DECA,member
+225056,Peter,Caldwell,M,3,1.41,Yearbook,member
+225057,Deborah,Campbell,F,1,2.86,National Honors Society,member
+225058,Pauline,Campos,F,1,2.36,FFA,member
+225059,Darren,Cannon,M,1,3.45,Band,member
+225060,Graham,Carlson,M,3,1.81,Sports Journalism,president
+225061,Lorraine,Carpenter,F,2,1.55,History,vice-president
+225062,George,Carr,M,1,1.4,4-H,member
+225063,Laura,Carrillo,F,4,2.06,Newspaper,member
+225064,Lisa,Carroll,F,3,2.82,Music,member
+225065,Tracey,Carter,F,1,3.81,Book,member
+225066,Carol,Casey,F,2,2.25,Student Government,member
+225067,Linda,Castillo,F,2,1.52,Sports Journalism,member
+225068,Kenneth,Castro,M,4,2.29,NULL,NULL
+225069,Allan,Chambers,M,4,1.58,Beta,member
+225070,Simon,Chan,M,3,3.54,Mu Alpha Theta,vice-president
+225071,Douglas,Chandler,M,3,3.96,Beta,member
+225072,Keith,Chang,M,2,2.19,Robotics,member
+225073,Lee,Chapman,M,3,1.58,History,member
+225074,Lorna,Chavez,F,4,2.76,DECA,officer
+225075,Anthony,Chen,M,1,1.44,Yearbook,officer
+225076,Grant,Christensen,M,4,3.06,NULL,NULL
+225077,Catherine,Clark,F,1,2.82,Robotics,member
+225078,Wendy,Clarke,F,4,3.27,Photography,member
+225079,Lynne,Cobb,F,1,3.43,DECA,member
+225080,Yvonne,Cohen,F,2,2.03,eSports,member
+225081,Pamela,Cole,F,4,2.52,DECA,member
+225082,Kirsty,Coleman,F,3,1.19,Robotics,member
+225083,Ross,Collins,M,1,3.54,Band,member
+225084,Jonathan,Conner,M,1,3.52,National Honors Society,member
+225085,Gavin,Contreras,M,4,2.66,NULL,NULL
+225086,Jane,Cook,F,2,2.83,FCA,vice-president
+225087,Nicholas,Cooper,M,1,1.17,Sports Journalism,officer
+225088,Joseph,Cortez,M,4,3.82,Sports Journalism,member
+225089,Emma,Cox,F,3,3.32,Band,officer
+225090,Stewart,Craig,M,2,1.94,Music,president
+225091,Daniel,Crawford,M,1,1.63,Robotics,member
+225092,Edward,Cross,M,2,1.7,Mu Alpha Theta,member
+225093,Joanne,Cruz,F,2,3.23,Science,officer
+225094,Heather,Cummings,F,3,2.61,History,member
+225095,Suzanne,Cunningham,F,1,2.69,Yearbook,member
+225096,Matthew,Curry,M,3,2.11,Student Government,member
+225097,Donald,Curtis,M,4,3.81,Book,member
+225098,Anne,Daniel,F,4,1.83,eSports,officer
+225099,Fraser,Daniels,M,2,2.5,eSports,member
+225100,Diane,Davidson,F,4,3.22,Photography,member
+225101,Helen,Davis,F,3,1.41,Photography,member
+225102,Garry,Dawson,M,4,3.62,4-H,member
+225103,Malcolm,Day,M,1,2.02,History,president
+225104,Charles,Dean,M,1,1.83,Science,member
+225105,Victoria,Deleon,F,2,3.73,FFA,member
+225106,Duncan,Delgado,M,3,1.42,Book,vice-president
+225107,Dawn,Dennis,F,2,1.41,DECA,president
+225108,Mary,Diaz,F,1,1.67,Book,officer
+225109,Samantha,Dixon,F,4,1.23,Music,member
+225110,Marie,Dominguez,F,2,3.58,Mu Alpha Theta,member
+225111,Alistair,Douglas,M,4,1.8,FCA,member
+225112,Kerry,Doyle,F,4,2.79,Photography,officer
+225113,Ann,Duncan,F,1,2.54,FFA,member
+225114,Hazel,Dunn,F,3,3.77,Newspaper,member
+225115,Christine,Duran,F,1,2.54,NULL,NULL
+225116,Raymond,Edwards,M,3,1.5,DECA,member
+225117,Gail,Elliott,F,3,3.02,Yearbook,president
+225118,Andrea,Ellis,F,1,1.78,Student Government,president
+225119,Clare,Erickson,F,2,2.68,National Honors Society,member
+225120,Philip,Espinoza,M,3,2.62,Photography,member
+225121,Ronald,Estrada,M,3,3.13,NULL,NULL
+225122,Ewan,Evans,M,4,1.63,Robotics,vice-president
+225123,Ryan,Farmer,M,4,3.1,Music,member
+225124,Francis,Ferguson,M,2,3.4,Debate,member
+225125,Sandra,Fernandez,F,3,2.47,4-H,member
+225126,Bruce,Fields,M,2,2.25,FFA,member
+225127,Shona,Figueroa,F,4,2.31,NULL,NULL
+225128,Patrick,Fischer,M,3,1.14,Photography,member
+225129,Alastair,Fisher,M,3,1.4,Student Government,member
+225130,Kathleen,Fitzgerald,F,2,1.32,History,officer
+225131,Paula,Fleming,F,4,1.25,4-H,member
+225132,Bryan,Fletcher,M,1,3.17,National Honors Society,officer
+225133,Marc,Flores,M,3,3.14,Student Government,officer
+225134,Shirley,Floyd,F,1,2.83,Mu Alpha Theta,president
+225135,Jamie,Flynn,M,2,3.17,Sports Journalism,member
+225136,Denise,Ford,F,2,2.33,NULL,NULL
+225137,Hugh,Foster,M,1,1.86,Yearbook,member
+225138,Euan,Fowler,M,3,2.12,FFA,member
+225139,Gerard,Fox,M,2,2.88,DECA,member
+225140,Sean,Francis,M,2,2.29,Robotics,member
+225141,Wayne,Frank,M,2,2.72,Science,member
+225142,Adam,Franklin,M,2,3.18,Newspaper,vice-president
+225143,Melanie,Frazier,F,4,1.65,Photography,member
+225144,Calum,Freeman,M,3,1.81,Band,president
+225145,Alasdair,French,M,3,3,Drama,member
+225146,Patricia,Fuller,F,4,2.67,Band,member
+225147,Audrey,Gallagher,F,2,2.95,Sports Journalism,member
+225148,Ruth,Garcia,F,1,2.2,DECA,vice-president
+225149,Robin,Gardner,M,1,3.73,Mu Alpha Theta,officer
+225150,Greig,Garner,M,4,1.27,Science,member
+225151,Jill,Garrett,F,4,3.93,Chess,member
+225152,Angus,Garza,M,3,3.8,Newspaper,member
+225153,Lee,George,F,3,2.2,National Honors Society,president
+225154,Leigh,Gibbs,F,2,1.84,Beta,member
+225155,Russell,Gibson,M,3,3.63,FFA,officer
+225156,Catriona,Gilbert,F,2,2.24,Beta,vice-president
+225157,Cameron,Gill,M,3,3.63,Broadcast Journalism,member
+225158,Rachel,Glover,F,1,2.29,Debate,member
+225159,Roderick,Gomez,M,2,1.37,Chess,member
+225160,Morag,Gonzales,F,2,2.95,Photography,member
+225161,Kirsten,Gonzalez,F,2,3.63,History,member
+225162,Norman,Goodman,M,1,1.86,FCA,officer
+225163,Murray,Goodwin,M,3,1.19,FFA,vice-president
+225164,Kirsteen,Gordon,F,4,1.94,Broadcast Journalism,member
+225165,Katrina,Graham,F,2,3.8,Yearbook,member
+225166,Joanna,Grant,F,3,3.41,FFA,member
+225167,Lynsey,Graves,F,1,3.52,Sports Journalism,vice-president
+225168,Cheryl,Gray,F,4,1.35,Chess,member
+225169,Gareth,Green,M,3,3.97,Chess,president
+225170,Dean,Greene,M,4,1.07,DECA,member
+225171,Debbie,Gregory,F,4,2.18,eSports,member
+225172,Eric,Griffin,M,3,1.87,NULL,NULL
+225173,Maureen,Griffith,F,3,3.57,Student Government,member
+225174,Janet,Gross,F,3,3.66,Debate,president
+225175,Aileen,Guerrero,F,1,2.87,NULL,NULL
+225176,Adrian,Gutierrez,M,2,3.44,Sports Journalism,officer
+225177,Arlene,Guzman,F,2,2.72,Student Government,member
+225178,Zoe,Hale,F,3,1.76,FFA,member
+225179,Lindsay,Hall,F,4,2.99,Music,officer
+225180,Stephanie,Hamilton,F,4,3.32,Debate,member
+225181,Judith,Hammond,F,2,3.38,Yearbook,member
+225182,Gregor,Hampton,M,2,3.17,Music,member
+225183,Mandy,Hansen,F,3,2.8,Beta,officer
+225184,Jillian,Hanson,F,1,2.97,History,member
+225185,Mhairi,Hardy,F,4,2.72,History,member
+225186,Samuel,Harmon,M,3,1.73,NULL,NULL
+225187,Gerald,Harper,M,1,1.21,eSports,vice-president
+225188,Henry,Harrington,M,3,1.92,Music,member
+225189,Justin,Harris,M,4,1.75,Student Government,member
+225190,Benjamin,Harrison,M,3,2.84,Yearbook,member
+225191,Shaun,Hart,M,3,1.27,Mu Alpha Theta,member
+225192,Barbara,Hartman,F,4,2.81,NULL,NULL
+225193,Callum,Harvey,M,4,2.76,National Honors Society,member
+225194,Campbell,Hawkins,M,3,3.85,NULL,NULL
+225195,Carolyn,Hayes,F,2,2.89,Book,member
+225196,Gayle,Haynes,F,1,1.34,Yearbook,vice-president
+225197,Maria,Henderson,F,2,3.7,Science,member
+225198,Frank,Henry,M,3,3.67,Chess,member
+225199,Valerie,Hernandez,F,1,3.98,eSports,member
+225200,Christina,Herrera,F,1,1.88,FFA,member
+225201,Roy,Hicks,M,2,3.54,Yearbook,member
+225202,Timothy,Higgins,M,1,1.34,Robotics,officer
+225203,Marion,Hill,F,4,1.83,Debate,member
+225204,Nicola,Hines,F,4,2.42,Beta,member
+225205,Karen,Hodges,F,3,1.18,Music,member
+225206,David,Hoffman,M,1,2.91,Science,vice-president
+225207,Susan,Hogan,F,2,2.71,Science,member
+225208,John,Holland,M,2,2.28,National Honors Society,member
+225209,Claire,Holmes,F,4,2.38,Broadcast Journalism,member
+225210,Paul,Holt,M,1,1.96,Mu Alpha Theta,member
+225211,James,Hopkins,M,2,1.74,Photography,officer
+225212,Mark,Horton,M,1,1.64,Debate,member
+225213,Scott,Howard,M,2,4,DECA,officer
+225214,Fiona,Howell,F,3,1.85,FCA,president
+225215,Angela,Hubbard,F,3,2.01,Book,member
+225216,Sharon,Hudson,F,4,2.54,eSports,president
+225217,Gillian,Hughes,F,2,2.03,eSports,member
+225218,Andrew,Hunt,M,2,2.67,History,member
+225219,Julie,Hunter,F,3,4,NULL,NULL
+225220,Steven,Ingram,M,2,1.43,FFA,officer
+225221,Robert,Jackson,M,1,3.81,Newspaper,president
+225222,Jennifer,Jacobs,F,4,1.21,Sports Journalism,member
+225223,Stephen,James,M,4,3.63,Drama,member
+225224,Craig,Jenkins,M,2,1.61,Band,vice-president
+225225,Christopher,Jennings,M,2,2.56,FCA,member
+225226,Michelle,Jensen,F,2,1.81,Broadcast Journalism,president
+225227,Alan,Jimenez,M,2,3.5,Broadcast Journalism,member
+225228,Michael,Johnson,M,2,1.82,Newspaper,member
+225229,Stuart,Johnston,M,1,3.85,Science,member
+225230,Louise,Jones,F,4,1.88,Newspaper,member
+225231,Lisa,Jordan,F,1,1.57,eSports,member
+225232,Amanda,Joseph,F,2,2.27,Drama,vice-president
+225233,Donna,Juarez,F,3,1.51,Robotics,member
+225234,William,Keller,M,3,1.87,Debate,officer
+225235,Kevin,Kelley,M,3,1.34,Book,president
+225236,Tracy,Kelly,F,2,1.49,Yearbook,member
+225237,Colin,Kennedy,M,4,2.6,Drama,member
+225238,Brian,Kim,M,2,3.87,Broadcast Journalism,member
+225239,Alison,King,F,4,1.29,Student Government,officer
+225240,Elaine,Klein,F,3,1.98,Debate,vice-president
+225241,Jacqueline,Knight,F,2,1.67,FCA,member
+225242,Sarah,Kramer,F,2,1.89,Broadcast Journalism,officer
+225243,Caroline,Lambert,F,3,3.75,NULL,NULL
+225244,Elizabeth,Lane,F,4,1.39,Mu Alpha Theta,member
+225245,Laura,Lang,F,2,3.18,Chess,member
+225246,Lynn,Larson,F,1,2.9,Drama,president
+225247,Deborah,Lawrence,F,3,3.57,NULL,NULL
+225248,Derek,Lawson,M,4,3.45,Newspaper,officer
+225249,Lesley,Le,F,2,2.23,National Honors Society,member
+225250,Neil,Lee,M,4,3.49,DECA,member
+225251,Richard,Leon,M,2,1.91,Band,officer
+225252,Gary,Leonard,M,3,2.13,Newspaper,member
+225253,Barry,Lewis,M,3,1.56,National Honors Society,member
+225254,Margaret,Lindsey,F,3,1.32,Band,member
+225255,Martin,Little,M,1,1.62,Beta,member
+225256,Joanne,Lloyd,F,1,1.86,Book,officer
+225257,Thomas,Logan,M,2,3.28,Mu Alpha Theta,member
+225258,Pauline,Long,F,2,3.36,Chess,officer
+225259,Lorraine,Lopez,F,3,2.52,Yearbook,member
+225260,Carol,Love,F,4,2.78,DECA,member
+225261,Kirsty,Lowe,F,1,3.26,Music,member
+225262,Ian,Lucas,M,2,1.09,Yearbook,officer
+225263,Yvonne,Luna,F,2,2.15,Book,member
+225264,Gordon,Lynch,M,2,2.43,Photography,member
+225265,Lorna,Lyons,F,2,1.27,Photography,president
+225266,Emma,Mack,F,3,1.51,Drama,member
+225267,Kenneth,Maldonado,M,2,2.96,Book,member
+225268,Alexander,Malone,M,1,1.69,History,member
+225269,Graeme,Mann,M,3,2.9,Beta,member
+225270,Peter,Manning,M,4,2.42,4-H,president
+225271,Iain,Marquez,M,3,3.43,Drama,member
+225272,Lynne,Marsh,F,1,1.76,Band,member
+225273,Tracey,Marshall,F,2,1.26,eSports,officer
+225274,Graham,Martin,M,1,1.8,Student Government,member
+225275,Jason,Martinez,M,1,2.53,Yearbook,member
+225276,Heather,Mason,F,3,2.91,Student Government,vice-president
+225277,George,Matthews,M,2,1.24,Book,officer
+225278,Allan,Maxwell,M,4,1.07,FCA,member
+225279,Catherine,May,F,2,1.61,History,member
+225280,Keith,Mcbride,M,2,2.69,NULL,NULL
+225281,Darren,Mccarthy,M,1,1.43,Band,member
+225282,Simon,Mccormick,M,4,1.55,Robotics,member
+225283,Douglas,Mccoy,M,1,1.08,Yearbook,member
+225284,Pamela,Mcdaniel,F,2,2.71,Mu Alpha Theta,member
+225285,Ross,Mcdonald,M,3,3.53,NULL,NULL
+225286,Helen,Mcgee,F,1,3.56,Beta,officer
+225287,Stewart,Mcguire,M,4,1.62,Student Government,member
+225288,Linda,Mckinney,F,4,2.39,Music,member
+225289,Jane,Mclaughlin,F,2,2.32,Yearbook,member
+225290,Anne,Medina,F,2,1.04,Mu Alpha Theta,member
+225291,Lee,Mejia,M,2,3.41,Robotics,president
+225292,Kerry,Mendez,F,2,1.45,Music,vice-president
+225293,Suzanne,Mendoza,F,3,2.83,History,member
+225294,Grant,Meyer,M,3,3.68,NULL,NULL
+225295,Nicholas,Miles,M,3,1.84,Book,member
+225296,Joseph,Miller,M,1,2.16,Sports Journalism,member
+225297,Wendy,Mills,F,2,3.17,DECA,member
+225298,Gavin,Miranda,M,2,3.06,Music,member
+225299,Victoria,Mitchell,F,2,2.01,FFA,member
+225300,Anthony,Molina,M,3,2.81,Debate,member
+225301,Jonathan,Montgomery,M,3,1.62,Mu Alpha Theta,member
+225302,Diane,Moody,F,1,3.37,National Honors Society,officer
+225303,Mary,Moore,F,1,1.96,Music,member
+225304,Daniel,Morales,M,2,1.66,Photography,member
+225305,Dawn,Moran,F,2,1.95,Mu Alpha Theta,member
+225306,Fraser,Moreno,M,2,3.9,Student Government,officer
+225307,Matthew,Morgan,M,2,1.56,Yearbook,officer
+225308,Clare,Morris,F,1,1.62,Debate,member
+225309,Gail,Morrison,F,2,2.44,DECA,officer
+225310,Donald,Moss,M,2,3.47,eSports,member
+225311,Paula,Mueller,F,4,2.17,Newspaper,member
+225312,Malcolm,Mullins,M,1,1.88,NULL,NULL
+225313,Alistair,Munoz,M,3,2.03,Book,member
+225314,Edward,Murphy,M,4,2.03,Newspaper,member
+225315,Ann,Murray,F,2,1.95,Book,member
+225316,Shona,Myers,F,2,1.78,Beta,member
+225317,Hazel,Navarro,F,3,3.05,Beta,member
+225318,Raymond,Neal,M,4,3.98,Drama,officer
+225319,Christine,Nelson,F,1,2.73,National Honors Society,vice-president
+225320,Charles,Newman,M,2,2.64,National Honors Society,member
+225321,Andrea,Newton,F,2,3.21,Band,member
+225322,Samantha,Nguyen,F,1,1.65,NULL,NULL
+225323,Marie,Nichols,F,3,1.43,Chess,member
+225324,Philip,Norman,M,3,1,NULL,NULL
+225325,Lynsey,Norris,F,2,2.68,Photography,member
+225326,Bruce,Norton,M,3,2.91,DECA,member
+225327,Sandra,Nunez,F,2,1.21,Broadcast Journalism,member
+225328,Denise,Obrien,F,3,3.5,Student Government,member
+225329,Garry,Oconnor,M,4,2.61,Science,officer
+225330,Lee,Oliver,F,3,3.18,4-H,vice-president
+225331,Jamie,Olson,M,4,1.31,Debate,member
+225332,Ryan,Ortega,M,4,2.79,History,member
+225333,Bryan,Ortiz,M,1,2.5,Beta,member
+225334,Francis,Osborne,M,3,2.61,Student Government,member
+225335,Kelly,Owen,F,3,2.88,NULL,NULL
+225336,Alastair,Owens,M,2,2.5,Science,member
+225337,Duncan,Padilla,M,2,1.35,Debate,member
+225338,Patrick,Page,M,1,1.74,Broadcast Journalism,officer
+225339,Gayle,Palmer,F,1,1.77,Broadcast Journalism,member
+225340,Debbie,Park,F,1,3.6,Mu Alpha Theta,officer
+225341,Jill,Parker,F,1,1.12,Yearbook,member
+225342,Kathleen,Parks,F,4,1.92,Robotics,member
+225343,Patricia,Parsons,F,4,1.65,Photography,member
+225344,Joanna,Patel,F,3,3.37,Music,member
+225345,Ronald,Patterson,M,3,2.92,History,member
+225346,Catriona,Patton,F,3,3.21,Drama,member
+225347,Shirley,Paul,F,2,1.69,NULL,NULL
+225348,Ruth,Payne,F,1,1.13,Broadcast Journalism,vice-president
+225349,Zoe,Pearson,F,4,3.85,Book,member
+225350,Leigh,Pena,F,1,2.29,Newspaper,officer
+225351,Alasdair,Perez,M,3,1.76,NULL,NULL
+225352,Ewan,Perkins,M,4,1.49,National Honors Society,member
+225353,Marc,Perry,M,3,3.71,Chess,vice-president
+225354,Wayne,Peters,M,2,2.54,Beta,member
+225355,Hugh,Peterson,M,4,3.67,Debate,member
+225356,Robin,Pham,M,1,2.88,NULL,NULL
+225357,Sean,Phillips,M,2,1.19,Newspaper,member
+225358,Rachel,Pierce,F,1,3.87,Sports Journalism,member
+225359,Melanie,Pope,F,3,1.2,4-H,officer
+225360,Calum,Porter,M,3,1.64,eSports,member
+225361,Euan,Potter,M,2,2.03,Music,officer
+225362,Adam,Powell,M,2,1.24,Drama,member
+225363,Kirsteen,Powers,F,1,2.02,Music,member
+225364,Russell,Pratt,M,4,3.56,Band,member
+225365,Cameron,Price,M,1,1.59,Mu Alpha Theta,member
+225366,Aileen,Quinn,F,4,3.81,4-H,member
+225367,Gerard,Ramirez,M,3,3.34,FFA,president
+225368,Christina,Ramos,F,2,2.17,Science,president
+225369,Janet,Ramsey,F,3,3.91,FCA,member
+225370,Murray,Ray,M,2,1.11,Debate,member
+225371,Katrina,Reed,F,1,2.73,Debate,member
+225372,Stephanie,Reese,F,2,2,Newspaper,member
+225373,Norman,Reeves,M,4,3.88,Drama,member
+225374,Audrey,Reid,F,2,1.53,Newspaper,member
+225375,Angus,Reyes,M,2,3.86,Music,member
+225376,Greig,Reynolds,M,1,3.61,National Honors Society,member
+225377,Kirsten,Rhodes,F,4,2.04,Chess,member
+225378,Justin,Rice,M,2,2.43,DECA,member
+225379,Arlene,Richards,F,3,2.79,Photography,member
+225380,Maureen,Richardson,F,2,2.77,Photography,member
+225381,Gregor,Riley,M,2,2.46,Photography,officer
+225382,Gerald,Rios,M,3,2.01,History,member
+225383,Morag,Rivera,F,2,3.93,eSports,member
+225384,Marion,Robbins,F,1,3.22,Yearbook,member
+225385,Mhairi,Roberts,F,3,2.94,Photography,vice-president
+225386,Roderick,Robertson,M,1,1.34,DECA,member
+225387,Roy,Robinson,M,2,3.5,NULL,NULL
+225388,Allison,Robles,F,4,3.54,Chess,member
+225389,Cheryl,Rodgers,F,4,3.59,Music,member
+225390,Maria,Rodriguez,F,3,2.93,FCA,member
+225391,Benjamin,Rogers,M,3,2.7,FFA,member
+225392,Kim,Rojas,F,2,3.2,Mu Alpha Theta,member
+225393,Timothy,Romero,M,1,3.71,Band,member
+225394,Anna,Rose,F,4,1.77,4-H,member
+225395,Lindsay,Ross,F,2,3.08,Science,member
+225396,Dean,Rowe,M,4,2.09,Sports Journalism,member
+225397,Rebecca,Ruiz,F,3,1.02,Sports Journalism,member
+225398,Samuel,Russell,M,2,1.9,Mu Alpha Theta,officer
+225399,Katherine,Ryan,F,3,3.17,Photography,member
+225400,Greg,Salazar,M,2,2.56,Photography,member
+225401,Shaun,Salinas,M,4,2.6,NULL,NULL
+225402,Mandy,Sanchez,F,2,2.79,History,member
+225403,Nicola,Sanders,F,4,1.5,4-H,member
+225404,Adrian,Sandoval,M,1,2.74,Robotics,member
+225405,Campbell,Santiago,M,1,3.61,Science,officer
+225406,Karen,Santos,F,2,3.17,History,member
+225407,Claire,Saunders,F,3,3.05,Drama,member
+225408,Angela,Schmidt,F,3,2.2,National Honors Society,member
+225409,Fiona,Schneider,F,4,2.95,FCA,member
+225410,David,Schroeder,M,1,1.67,NULL,NULL
+225411,John,Schultz,M,4,1.56,Science,member
+225412,Paul,Schwartz,M,3,2.63,NULL,NULL
+225413,James,Scott,M,4,1.53,Photography,member
+225414,Susan,Sharp,F,2,1.59,Mu Alpha Theta,member
+225415,Jennifer,Shaw,F,3,3.3,4-H,officer
+225416,Andrew,Shelton,M,3,2.11,Drama,member
+225417,Steven,Sherman,M,4,1.44,Sports Journalism,officer
+225418,Julie,Silva,F,4,3.3,Music,member
+225419,Scott,Simmons,M,4,1.56,Beta,member
+225420,Gillian,Simon,F,4,1.99,Robotics,member
+225421,Mark,Simpson,M,2,1.78,Broadcast Journalism,member
+225422,Michelle,Sims,F,1,1.96,Robotics,officer
+225423,Robert,Singh,M,3,3.69,FCA,member
+225424,Stephen,Smith,M,2,2.6,eSports,member
+225425,Craig,Snyder,M,3,3.45,Yearbook,member
+225426,Christopher,Solis,M,4,3.61,Sports Journalism,member
+225427,Stuart,Soto,M,4,1.22,NULL,NULL
+225428,Sharon,Sparks,F,1,2.41,FCA,member
+225429,Alan,Spencer,M,2,2.79,Band,member
+225430,William,Stanley,M,1,3.94,Student Government,officer
+225431,Michael,Steele,M,4,1.88,Beta,member
+225432,Kevin,Stephens,M,4,2.56,Yearbook,officer
+225433,Colin,Stevens,M,3,1.91,Student Government,member
+225434,Brian,Stevenson,M,2,3.21,DECA,member
+225435,Derek,Stewart,M,1,1.34,NULL,NULL
+225436,Sarah,Stone,F,1,2.28,Newspaper,member
+225437,Neil,Strickland,M,4,2.19,NULL,NULL
+225438,Louise,Sullivan,F,3,3.2,Broadcast Journalism,member
+225439,Richard,Sutton,M,1,2.28,Yearbook,member
+225440,Martin,Swanson,M,3,1.8,DECA,member
+225441,Gary,Tate,M,3,2.91,FFA,member
+225442,Ross,Taylor,M,2,3.26,Book,member
+225443,Donna,Terry,F,1,1.19,FCA,member
+225444,Laura,Thomas,F,1,3.7,Student Government,member
+225445,Amanda,Thompson,F,4,3.08,Chess,member
+225446,Alison,Thornton,F,4,1.31,Broadcast Journalism,member
+225447,Thomas,Todd,M,2,1.28,Beta,member
+225448,Lisa,Torres,F,1,2.78,NULL,NULL
+225449,Ian,Townsend,M,4,2.6,Mu Alpha Theta,member
+225450,Caroline,Tran,F,2,1.17,Science,member
+225451,Iain,Tucker,M,3,2.68,National Honors Society,member
+225452,Barry,Turner,M,2,3.5,FFA,member
+225453,Gordon,Tyler,M,4,1.02,Book,member
+225454,Graeme,Valdez,M,2,1.07,Yearbook,member
+225455,Kirsty,Vargas,F,1,2.88,FFA,officer
+225456,Graham,Vasquez,M,4,3.37,National Honors Society,officer
+225457,Jacqueline,Vaughn,F,4,2.36,Robotics,member
+225458,Elaine,Vazquez,F,3,2.68,Sports Journalism,member
+225459,Alexander,Vega,M,1,3.36,NULL,NULL
+225460,Peter,Wade,M,1,1.78,Sports Journalism,member
+225461,Lesley,Wagner,F,4,1.27,Science,member
+225462,Kenneth,Walker,M,1,3.15,Robotics,member
+225463,Simon,Wallace,M,2,1.51,Sports Journalism,officer
+225464,Lynn,Walsh,F,4,3.16,Chess,member
+225465,Deborah,Walters,F,1,1.6,National Honors Society,member
+225466,Allan,Walton,M,3,1.7,FCA,member
+225467,Darren,Wang,M,1,1.01,Sports Journalism,member
+225468,Elizabeth,Ward,F,3,3.16,NULL,NULL
+225469,George,Warner,M,4,1.61,Robotics,member
+225470,Douglas,Warren,M,2,1.89,Newspaper,member
+225471,Joanne,Washington,F,2,3.12,eSports,member
+225472,Jason,Waters,M,1,3.43,Sports Journalism,member
+225473,Emma,Watkins,F,3,2.1,Mu Alpha Theta,member
+225474,Tracy,Watson,F,1,2.08,Broadcast Journalism,member
+225475,Lee,Watts,M,1,2.54,Photography,member
+225476,Gavin,Weaver,M,1,1.85,Broadcast Journalism,member
+225477,Anthony,Webb,M,2,1.07,4-H,member
+225478,Lorraine,Weber,F,1,3.87,Photography,member
+225479,Jonathan,Webster,M,2,2.04,Broadcast Journalism,member
+225480,Stewart,Welch,M,3,1.8,4-H,member
+225481,Jamie,Wells,M,1,3.11,Newspaper,member
+225482,Keith,West,M,4,3.76,Sports Journalism,member
+225483,Matthew,Wheeler,M,1,1.51,History,member
+225484,Lynne,White,F,3,2.33,National Honors Society,member
+225485,Joseph,Williams,M,2,2.45,Debate,member
+225486,Margaret,Williamson,F,3,1.43,4-H,member
+225487,Heather,Willis,F,3,1.81,Sports Journalism,member
+225488,Carol,Wilson,F,3,3.6,Music,member
+225489,Daniel,Wise,M,1,2.22,Mu Alpha Theta,member
+225490,Edward,Wolf,M,4,2.95,National Honors Society,officer
+225491,Lorna,Wolfe,F,4,1.21,FCA,member
+225492,Pauline,Wong,F,1,3.49,Newspaper,member
+225493,Nicholas,Wood,M,1,1.29,NULL,NULL
+225494,Grant,Woods,M,2,2.07,Debate,member
+225495,Ryan,Wright,M,2,1.26,FFA,member
+225496,Philip,Yang,M,4,3.32,FFA,member
+225497,Alistair,Yates,M,2,2.96,National Honors Society,member
+225498,Donald,Young,M,4,2.93,Student Government,member
+225499,Charles,Zimmerman,M,1,2.24,Band,member
