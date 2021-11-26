@@ -9,18 +9,18 @@ run sqlite3 after you cd to the directory
 
 Then build the project
 
-  >.open 'project'
+.open 'project'
  
-  >.mode csv
+.mode csv
   
-  >.import 'students.csv' students
+.import 'students.csv' students
   
-  >.import 'teachers.csv' teachers
+.import 'teachers.csv' teachers
   
-  >.import 'clubs.csv' clubs
+.import 'clubs.csv' clubs
+ 
+.import 'sports.csv' sports
   
-  >.import 'sports.csv' sports
-  
-  >.import 'players.csv' players
+.import 'players.csv' players
 
 Now the db is built, and you can run our queries by typing them into the cmd line.
